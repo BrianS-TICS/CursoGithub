@@ -5,3 +5,11 @@ const saludo = () => {
 }
 
 const str = "Prueba";
+
+
+const useStateFalse(Object){
+    // Null
+}
+
+// Simulacion de state
+const [carga, setCarga] = UseStateFalse(0);
