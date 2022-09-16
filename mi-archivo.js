@@ -5,3 +5,10 @@ const saludo = () => {
 }
 
 const str = "Prueba";
+
+
+const Xprovider = (children)=>{
+    const xContext  =  (children ) => {
+        
+    }
+}
