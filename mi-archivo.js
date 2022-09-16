@@ -4,7 +4,7 @@ const saludo = () => {
     console.log("Este es un saludo");
 }
 
-const str = "Prueba";
+const str = "Esta es la edicion de mi rama @@Nueva@@";
 
 
 const Xprovider = (children)=>{
