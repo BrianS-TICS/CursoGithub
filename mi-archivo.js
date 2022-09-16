@@ -12,3 +12,9 @@ const Xprovider = (children)=>{
         
     }
 }
+const useStateFalse = (Object) => {
+    // Null
+}
+
+// Simulacion de state
+const [carga, setCarga] = UseStateFalse(0);
