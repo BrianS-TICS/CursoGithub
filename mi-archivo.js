@@ -13,8 +13,8 @@ const Xprovider = (children)=>{
     }
 }
 const useStateFalse = (Object) => {
-    let i;
-    i++;
+    let s = 0;
+    s++;
 }
 
 // Simulacion de state
